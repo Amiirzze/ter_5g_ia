@@ -3,7 +3,7 @@
 ## Source du dataset
 **5G-SliciNdd** — Figshare  
 DOI : [10.6084/m9.figshare.24446515](https://doi.org/10.6084/m9.figshare.24446515)  
-Flux réseau réels capturés dans un environnement 5G simulé.
+
 
 ## Dataset utilisé : Global.csv
 
